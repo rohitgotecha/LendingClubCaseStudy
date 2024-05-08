@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 
 ## Table of Contents
 * [Group Facilitator] (#Group Facilitators)
