@@ -81,9 +81,9 @@ The Solution in this repository provides the detailed exploratory data analysis 
 * MatplotLib-pyplot
 
 ## Conclusions
-* Try to avoid the loan approval if the purpose is mentioned as debit consolidation as analysis shows higher number of defaults in that category
-* The analysis idicates that when annual income is low, the debt-to-income ratio (DTI) is high and conversely. So choose the borrower with good annual income
-* Analysis shows, most of borrowers had borrowed more that 15,000 USD have defaulted in higher numbers. So avoid the approval if loan amount is higher than this amount
+* Given that the majority of loans fall within the range of $5000 to $15000 and most interest rates range between 9% and 14%, the lending company should consider offering loans within these ranges to minimize the risk of defaults. Loans falling outside these ranges could be subject to closer scrutiny or higher interest rates.
+* Since individuals with "Charged off" loans predominantly reside in rental properties, the lending company should assess the financial stability of applicants residing in rental properties more thoroughly. This could involve additional verification steps or adjustments to loan terms based on the applicant's housing situation.
+* Applicants opting for longer loan terms, particularly 60-month terms, exhibit a higher percentage of charge-offs. Additionally, loans from Grades B, C, and D have a higher likelihood of being charged off. Therefore, the lending company should exercise caution when approving loans with longer terms or from lower-grade applicants, implementing stricter criteria or higher interest rates for such cases.
 * Most borrowers have been in the workforce for ten years or more, and they are also the most likely to default on their loans.
 * Borrowers who apply for loans with a 60-month term are at a higher risk of default compared to those who opt for a 36-month term loan.
 
