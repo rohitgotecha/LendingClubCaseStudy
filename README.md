@@ -6,7 +6,7 @@
   * [Problem Statement](#problem-statement)
   * [Objective](#objective)
   * [Analysis Steps Followed](#analysis-steps-followed)
-* [Technologies Used](#technologies-used)
+* [Language and Library Used](#language-and-library-used)
 * [Conclusions](#conclusions)
 
 
@@ -70,11 +70,22 @@ The Solution in this repository provides the detailed exploratory data analysis 
   - Clustermap for Multivariate Analysis, Correlation Analysis
   - Summary of Multivariate Analysis, Correlation Analysis
 
-
-
-## Technologies Used
-
+## Language and Library Used
+### Language
+* Python
+### Numerical Analysis and Data Analysis
+* Numpy
+* Pandas
+### Data Visualization
+* Seaborn
+* MatplotLib-pyplot
 
 ## Conclusions
+* Try to avoid the loan approval if the purpose is mentioned as debit consolidation as analysis shows higher number of defaults in that category
+* The analysis idicates that when annual income is low, the debt-to-income ratio (DTI) is high and conversely. So choose the borrower with good annual income
+* Analysis shows, most of borrowers had borrowed more that 15,000 USD have defaulted in higher numbers. So avoid the approval if loan amount is higher than this amount
+* Most borrowers have been in the workforce for ten years or more, and they are also the most likely to default on their loans.
+* Borrowers who apply for loans with a 60-month term are at a higher risk of default compared to those who opt for a 36-month term loan.
+
 
 
