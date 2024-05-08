@@ -1,10 +1,13 @@
 # Lending Club Case Study
 
 ## Table of Contents
-* [Group Facilitator](#GroupFacilitators)
-* [Brief Overview](#BriefOverview)
-* [Technologies Used](#TechnologiesUsed)
-* [Conclusions](#Conclusions)
+* [Group Facilitator](#group-facilitators)
+* [Brief Overview](#brief-overview)
+  * [Problem Statement](#problem-statement)
+  * [Objective](#objective)
+  * [Analysis Steps Followed](#analysis-steps-followed)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
 
 
 ## Group Facilitators
